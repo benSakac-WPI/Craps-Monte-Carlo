@@ -1,4 +1,4 @@
-# Craps-Monte-Carlo-Simulation
+# Craps Monte Carlo Simulation
 Monte Carlo simulation for the dice game Craps
 
 ## How to use:
